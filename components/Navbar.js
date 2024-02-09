@@ -12,7 +12,7 @@ export default function Navbar() {
                   <Link className='hover:border-b-2 border-[#a688fa] transition' href="/">Home</Link>
                   <Link className='hover:border-b-2 border-[#a688fa] transition' href="/about">About</Link>
                   <a href="#">Projects</a>
-                  <a href="#">Contact </a>
+                  <a href="#">Contact</a>
               </div>
               </div>
           </div>
